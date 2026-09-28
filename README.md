@@ -27,13 +27,22 @@ Después de varios años trabajando en el sector sanitario, decidí dar un giro 
   <strong>Spring Boot</strong>
 </p>
 
+## 🚀 Proyecto destacado
 
-### 🚀 Proyectos
+### 📱 SportCityApp
 
-- 📱 [SportCityApp](https://github.com/Gerardlf/SportCityApp) — Aplicación móvil de reservas de pistas deportivas desarrollada con Kotlin y Jetpack Compose.
-- ⚙️ [APISportCity](https://github.com/Gerardlf/APISportCity) — API REST para la gestión de pistas y reservas
-- 🛒 [tiendaOnline](https://github.com/Gerardlf/tiendaOnline) — Aplicación de tienda online
-- 🗺️ [app_navegacion_estado](https://github.com/Gerardlf/app_navegacion_estado) — Aplicación de práctica con navegación y gestión de estado
+Aplicación móvil para la reserva de pistas deportivas, desarrollada con Kotlin y Jetpack Compose siguiendo una arquitectura MVVM.
+
+**Tecnologías:**
+`Kotlin` · `Jetpack Compose` · `MVVM` · `Retrofit` · `Spring Boot` · `PostgreSQL`
+
+[🔗 Ver proyecto en GitHub](https://github.com/Gerardlf/SportCityApp)
+
+## 📚 Otros proyectos
+
+- ⚙️ **APISportCity** — API REST para la gestión de pistas y reservas con Spring Boot y PostgreSQL.
+- 🛒 **tiendaOnline** — Aplicación de tienda online desarrollada durante mi formación.
+- 🗺️ **app_navegacion_estado** — Aplicación desarrollada para practicar navegación y gestión de estado.
 Si quieres ver más proyectos, puedes visitar mis repositorios.
 
  ### 🎯 Actualmente
