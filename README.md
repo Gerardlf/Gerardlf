@@ -8,15 +8,19 @@ Actualmente estoy finalizando mis estudios de DAM y buscando una oportunidad par
 Después de varios años trabajando en el sector sanitario, decidí dar un giro profesional y formarme en el ámbito del desarrollo de software. Durante estos últimos tres años he cursado DAM, donde he podido adquirir conocimientos a través de diferentes proyectos.
 
 ### 🛠️ Tecnologías
-- Kotlin
-- Java
-- Dart / Flutter
-- SQL
+
+<img src="https://skillicons.dev/icons?i=kotlin,java" />
+- 🟣 Kotlin
+- ☕ Java
+- 🐦 Dart / Flutter
+- 🗄️ SQL
+- 🌱 Spring Boot
 
 
 ### 🚀 Proyectos
 
 - 📱 [SportCityApp](https://github.com/Gerardlf/SportCityApp) — Aplicación de reservas de pistas deportivas
+- ⚙️ [APISportCity](https://github.com/Gerardlf/APISportCity) — API REST para la gestión de pistas y reservas
 - 🛒 [tiendaOnline](https://github.com/Gerardlf/tiendaOnline) — Aplicación de tienda online
 - 🗺️ [app_navegacion_estado](https://github.com/Gerardlf/app_navegacion_estado) — Aplicación de práctica con navegación y gestión de estado
 Si quieres ver más proyectos, puedes visitar mis repositorios.
