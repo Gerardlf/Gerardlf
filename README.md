@@ -9,9 +9,15 @@ Después de varios años trabajando en el sector sanitario, decidí dar un giro 
 
 ### 🛠️ Tecnologías
 
-<img src="https://skillicons.dev/icons?i=kotlin,java" />
-- 🟣 Kotlin
-- ☕ Java
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin" width="55" />
+  <img src="https://skillicons.dev/icons?i=java" width="55" />
+</p>
+
+<p align="left">
+  <strong>Kotlin</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Java</strong>
+</p>
 - 🐦 Dart / Flutter
 - 🗄️ SQL
 - 🌱 Spring Boot
