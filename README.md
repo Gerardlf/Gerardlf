@@ -40,9 +40,11 @@ Aplicación móvil para la reserva de pistas deportivas, desarrollada con Kotlin
 
 ## 📚 Otros proyectos
 
-- ⚙️ **sportcity-api** — API REST desarrollada con Spring Boot y PostgreSQL para gestionar pistas deportivas y reservas.
-- 🛒 **tiendaOnline** — Aplicación de tienda online desarrollada durante mi formación.
-- 🗺️ **app_navegacion_estado** — Aplicación desarrollada para practicar navegación y gestión de estado.
+## 📚 Otros proyectos
+
+- ⚙️ [**sportcity-api**](https://github.com/Gerardlf/sportcity-api) — API REST desarrollada con Spring Boot y PostgreSQL para gestionar pistas deportivas y reservas.
+- 🛒 [**tiendaOnline**](https://github.com/Gerardlf/tiendaOnline) — Aplicación de tienda online desarrollada durante mi formación.
+- 🗺️ [**app_navegacion_estado**](https://github.com/Gerardlf/app_navegacion_estado) — Aplicación desarrollada durante mi formación para practicar navegación y gestión de estado.
 Si quieres ver más proyectos, puedes visitar mis repositorios.
 
  ### 🎯 Actualmente
