@@ -38,7 +38,6 @@ Aplicación móvil para la reserva de pistas deportivas, desarrollada con Kotlin
 
 [🔗 Ver proyecto en GitHub](https://github.com/Gerardlf/SportCityAppRetrofit)
 
-## 📚 Otros proyectos
 
 ## 📚 Otros proyectos
 
