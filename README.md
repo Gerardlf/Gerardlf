@@ -36,11 +36,11 @@ Aplicación móvil para la reserva de pistas deportivas, desarrollada con Kotlin
 **Tecnologías:**
 `Kotlin` · `Jetpack Compose` · `MVVM` · `Retrofit` · `Spring Boot` · `PostgreSQL`
 
-[🔗 Ver proyecto en GitHub](https://github.com/Gerardlf/SportCityApp)
+[🔗 Ver proyecto en GitHub](https://github.com/Gerardlf/SportCityAppRetrofit)
 
 ## 📚 Otros proyectos
 
-- ⚙️ **APISportCity** — API REST para la gestión de pistas y reservas con Spring Boot y PostgreSQL.
+- ⚙️ **sportcity-api** — API REST desarrollada con Spring Boot y PostgreSQL para gestionar pistas deportivas y reservas.
 - 🛒 **tiendaOnline** — Aplicación de tienda online desarrollada durante mi formación.
 - 🗺️ **app_navegacion_estado** — Aplicación desarrollada para practicar navegación y gestión de estado.
 Si quieres ver más proyectos, puedes visitar mis repositorios.
