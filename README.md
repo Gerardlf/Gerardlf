@@ -30,7 +30,7 @@ Después de varios años trabajando en el sector sanitario, decidí dar un giro 
 
 ### 🚀 Proyectos
 
-- 📱 [SportCityApp](https://github.com/Gerardlf/SportCityApp) — Aplicación de reservas de pistas deportivas
+- 📱 [SportCityApp](https://github.com/Gerardlf/SportCityApp) — Aplicación móvil de reservas de pistas deportivas desarrollada con Kotlin y Jetpack Compose.
 - ⚙️ [APISportCity](https://github.com/Gerardlf/APISportCity) — API REST para la gestión de pistas y reservas
 - 🛒 [tiendaOnline](https://github.com/Gerardlf/tiendaOnline) — Aplicación de tienda online
 - 🗺️ [app_navegacion_estado](https://github.com/Gerardlf/app_navegacion_estado) — Aplicación de práctica con navegación y gestión de estado
