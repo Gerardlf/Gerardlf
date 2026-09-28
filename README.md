@@ -54,6 +54,7 @@ Estoy buscando una oportunidad de prácticas FCT donde pueda seguir aprendiendo,
 - 📧 Email: gerardlf_777@hotmail.com
             gerardlf_777@outlook.com   
 - 💼 LinkedIn: PRÓXIMAMENTE........
+- 🐙 GitHub: [Gerardlf](https://github.com/Gerardlf)
 
 <!--
 **Gerardlf/Gerardlf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
