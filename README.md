@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Gerardo_GitHub_banner.jpg" alt="Gerardo De La Fuente - Desarrollo de Aplicaciones Multiplataforma" width="100%">
+</p>
+
 # 👋 Hola, soy Gerardo
 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 
